@@ -9,6 +9,9 @@ body {
   background: #0b0b0b;
   padding: 40px;
 }
+html {
+  scroll-behavior: smooth; 
+}
 
 .navbar {
   display: flex;
